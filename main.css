@@ -4,7 +4,7 @@
 }
 .h2{
     margin-top: 30px;
-    margin-left: 10px;
+    margin-left: 10px;  
 }
 .melynas{
     background-color:rgb(53,152,220);
@@ -17,6 +17,7 @@
     margin-top: 10px;
     font-weight: 500;
     color: rgb(166,181,206);
+    border-radius: 0px;
    
 }
 .lastn{
@@ -61,6 +62,7 @@ a{
     width: 200px;
     margin-left: 0px;
     margin-bottom: 25px;
+    border-radius: 3px;
 }
 .end{
     background-color: none;
@@ -80,4 +82,7 @@ p{
 }
 input >*{
     background-color: blue;
+}
+.spacer{
+    height: 20px;
 }
