@@ -3,18 +3,21 @@
     background-color: rgb(255,255,255);
 }
 .h2{
+    margin-top: 30px;
     margin-left: 10px;
 }
 .melynas{
     background-color:rgb(53,152,220);
-    height: 1000px;
+    height:700px;
     width: 800px;
 }
 .firstn{
     display: inline-block;
     width: 305px;
     margin-top: 10px;
-    font-weight: bolder;
+    font-weight: 500;
+    color: rgb(166,181,206);
+   
 }
 .lastn{
     display: inline-block;
@@ -22,19 +25,29 @@
     margin-bottom: 25px;
     width: 305px;
     margin-top: 10px;
+    color: rgb(166,181,206);
+    font-weight: 500;
 }
 .cont{
     width: 800px;
     margin-top: 40px;
-    margin-left: 50px;
-    border-radius: 400px;
+    margin-left: 54px;
     
 }
 .email{
     margin-bottom: 25px;
+    color: rgb(166,181,206);
+    font-weight: 500;
 }
 .conf{
 margin-top: 25px;
+color: rgb(166,181,206);
+font-weight: 500;
+}
+.pasw{
+    color: rgb(166,181,206);
+    font-weight: 500;
+    margin-top: 25px;
 }
 .cb{
     margin-top: 25px;
@@ -45,5 +58,26 @@ a{
 }
  
 .btn{
-    height: ;
+    width: 200px;
+    margin-left: 0px;
+    margin-bottom: 25px;
+}
+.end{
+    background-color: none;
+    padding: 0;
+}
+p{
+    margin-top: 15px;
+    margin-right: 120px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+}
+#link{
+   text-decoration: underline;
+   color: antiquewhite;
+   
+}
+input >*{
+    background-color: blue;
 }
