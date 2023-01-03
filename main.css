@@ -1,0 +1,49 @@
+
+.row >*{
+    background-color: rgb(255,255,255);
+}
+.h2{
+    margin-left: 10px;
+}
+.melynas{
+    background-color:rgb(53,152,220);
+    height: 1000px;
+    width: 800px;
+}
+.firstn{
+    display: inline-block;
+    width: 305px;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+.lastn{
+    display: inline-block;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    width: 305px;
+    margin-top: 10px;
+}
+.cont{
+    width: 800px;
+    margin-top: 40px;
+    margin-left: 50px;
+    border-radius: 400px;
+    
+}
+.email{
+    margin-bottom: 25px;
+}
+.conf{
+margin-top: 25px;
+}
+.cb{
+    margin-top: 25px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+ 
+.btn{
+    height: ;
+}
