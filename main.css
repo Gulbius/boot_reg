@@ -1,19 +1,22 @@
-
+body{
+    background-color: black;
+}
 .row >*{
-    background-color: rgb(255,255,255);
+    /* background-color: rgb(255,255,255); */
 }
 .h2{
     margin-top: 30px;
     margin-left: 10px;  
 }
 .melynas{
+    padding: 50px 0;;
     background-color:rgb(53,152,220);
-    height:700px;
-    width: 800px;
+    /* height:700px;
+    width: 800px; */
 }
 .firstn{
-    display: inline-block;
-    width: 305px;
+    /* display: inline-block; */
+     /* width: 305px;  */
     margin-top: 10px;
     font-weight: 500;
     color: rgb(166,181,206);
@@ -21,19 +24,27 @@
    
 }
 .lastn{
-    display: inline-block;
-    margin-left: 25px;
+    /* display: inline-block; */
+    /* margin-left: 25px; */
     margin-bottom: 25px;
-    width: 305px;
+    /* width: 305px; */
     margin-top: 10px;
     color: rgb(166,181,206);
     font-weight: 500;
 }
 .cont{
-    width: 800px;
+    /* width: 800px;
     margin-top: 40px;
-    margin-left: 54px;
+    margin-left: 54px; */
+    background-color: rgb(255,255,255);
     
+}
+.cont > p{
+    margin: 25px;
+}
+
+.cont >*{
+    margin:50px;
 }
 .email{
     margin-bottom: 25px;
@@ -41,8 +52,8 @@
     font-weight: 500;
 }
 .conf{
-margin-top: 25px;
-color: rgb(166,181,206);
+    margin-top: 25px;
+    color: rgb(166,181,206);
 font-weight: 500;
 }
 .pasw{
@@ -61,7 +72,7 @@ a{
 .btn{
     width: 200px;
     margin-left: 0px;
-    margin-bottom: 25px;
+    /* margin-bottom: 25px; */
     border-radius: 3px;
 }
 .end{
@@ -85,4 +96,12 @@ input >*{
 }
 .spacer{
     height: 20px;
+}
+
+.myContainer{
+    margin: -40px 25px;
+}
+
+.main{
+    margin-top: 100px;
 }
